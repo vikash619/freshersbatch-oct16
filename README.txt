@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 Minor Change in Line MAster branch
 =======
 change in line 1
